@@ -50,6 +50,16 @@ Pip's Word Vault utilizes a carefully crafted design system featuring:
 - Custom typography (`Outfit` and `Inter` via Google Fonts, if configured).
 - Adorable empty states and illustrations to keep you motivated!
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/1.png" alt="Home Screen" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/2.png" alt="Search Screen" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/3.png" alt="Add Word Screen" width="200"/>
+</p>
+
 ---
 
 <p align="center">
