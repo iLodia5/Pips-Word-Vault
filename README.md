@@ -53,11 +53,15 @@ Pip's Word Vault utilizes a carefully crafted design system featuring:
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" alt="Home Screen" width="200"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/2.png" alt="Search Screen" width="200"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/3.png" alt="Add Word Screen" width="200"/>
+  <img src="screenshots/1.jpg" alt="Screenshot 1" width="150"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/2.jpg" alt="Screenshot 2" width="150"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/3.jpg" alt="Screenshot 3" width="150"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/4.jpg" alt="Screenshot 4" width="150"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/5.jpg" alt="Screenshot 5" width="150"/>
 </p>
 
 ---
