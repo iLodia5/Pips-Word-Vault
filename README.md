@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/images/ezgif.com-video-to-webp-converter.webp" alt="App Demo" width="250"/>
+</p>
+
+<p align="center">
   <a href="#features">Features</a> •
   <a href="#download--installation">Download</a> •
   <a href="#tech-stack">Tech Stack</a> •
